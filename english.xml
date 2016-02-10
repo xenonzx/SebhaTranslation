@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">seb7aapp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reset_counter">Reset Counter</string>
+    <string name="action_rate_this_app">Rate This App</string>
+    <string name="action_contribute">Help us translate the app</string>
+    <string name="action_share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- pronounced -->
+    <string name="estegfar_pronounced">astagfour allah</string>
+    <string name="tasbee7_pronounced">sob7an allah</string>
+    <string name="takbeer_pronounced">allaho akbar</string>
+    <string name="tahleel_pronounced">la ilah ila allah</string>
+    <string name="hamdala_pronounced">al hamdo lilah</string>
+
+    <!-- type -->
+    <string name="estegfar_type">Estegfar (استغفار)</string>
+    <string name="tasbee7_type">Tasbee7 (تسبيح)</string>
+    <string name="takbeer_type">Takbeer (تكبير)</string>
+    <string name="tahleel_type">Tahleel (تهليل)</string>
+    <string name="hamdala_type">Hamd (حمد)</string>
+    <string name="title_activity_x">X</string>
+
+    <!-- arabic_form -->
+    <string name="estegfar_arabic_form">أستغفر الله</string>
+    <string name="tasbee7_arabic_form">سبحان الله</string>
+    <string name="takbeer_arabic_form">الله أكبر</string>
+    <string name="tahleel_arabic_form">لا إله إلا الله</string>
+    <string name="hamdala_arabic_form">الحمد لله</string>
+
+
+
+</resources>

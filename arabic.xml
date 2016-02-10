@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سبحة</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">اعدادات</string>
+    <string name="action_reset_counter">تصفير العداد</string>
+    <string name="action_rate_this_app">قيم هذا التطبيق</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- pronounced -->
+    <string name="estegfar_pronounced">أستغفر الله</string>
+    <string name="tasbee7_pronounced">سبحان الله</string>
+    <string name="takbeer_pronounced">الله أكبر</string>
+    <string name="tahleel_pronounced"></string>
+    <string name="hamdala_pronounced">الحمد لله</string>
+
+    <!-- type -->
+    <string name="estegfar_type">استغفار</string>
+    <string name="tasbee7_type">تسبيح</string>
+    <string name="takbeer_type">تكبير</string>
+    <string name="tahleel_type">تهليل</string>
+    <string name="hamdala_type">حمد</string>
+    <string name="title_activity_x">X</string>
+
+    <!-- arabic_form -->
+    <string name="estegfar_arabic_form">أستغفر الله</string>
+    <string name="tasbee7_arabic_form">سبحان الله</string>
+    <string name="takbeer_arabic_form">الله أكبر</string>
+    <string name="tahleel_arabic_form">لا إله إلا اله </string>
+    <string name="hamdala_arabic_form">الحمد لله</string>
+
+
+
+</resources>
